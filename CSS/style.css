@@ -69,3 +69,24 @@ section { border-style: solid;
 a {
     color: gray;
 }
+
+.image {
+    width: 125px;
+    height: 125px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(208, 173, 255);
+    margin: 1%;
+    text-align: left;
+}
+h3 {
+    
+    color: #4aaaa5;
+      text-align: left;
+      text-emphasis-position: top;
+      font-size: 23pt;
+     border-bottom-style: solid;
+     border-bottom-color: gray;
+     border-width: 100%;
+     padding-bottom: 20px;
+  }
